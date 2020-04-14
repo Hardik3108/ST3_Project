@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50051
 File Encoding         : 65001
 
-Date: 2020-04-11 15:38:53  
+Date: 2015-05-17 15:38:53  
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -29,13 +29,13 @@ CREATE TABLE `category` (
 -- ----------------------------
 -- Records of category
 -- ----------------------------
-INSERT INTO `category` VALUES ('1', 'New', 'Quần áo mới thiết kế');
-INSERT INTO `category` VALUES ('2', 'Sale', 'Quần áo giảm giá');
-INSERT INTO `category` VALUES ('3', 'Style', 'Quần áo dạo phố');
-INSERT INTO `category` VALUES ('4', 'Nam', 'Thời trang nam');
-INSERT INTO `category` VALUES ('5', 'Nữ', 'Thời trang nữ');
-INSERT INTO `category` VALUES ('6', 'Dép', 'Dép thời trang');
-INSERT INTO `category` VALUES ('7', 'Nón', 'Nón thời trang');
+INSERT INTO `category` VALUES ('1', 'New', 'abcd');
+INSERT INTO `category` VALUES ('2', 'Sale', 'jjsj');
+INSERT INTO `category` VALUES ('3', 'Style', ' kcnsk');
+INSERT INTO `category` VALUES ('4', 'Nam', 'nxsjxnsx');
+INSERT INTO `category` VALUES ('5', 'nur', 'xksnxs');
+INSERT INTO `category` VALUES ('6', 'Dep', 'sjbxnsj');
+INSERT INTO `category` VALUES ('7', 'Non', ' sknxsj');
 
 -- ----------------------------
 -- Table structure for history
